@@ -30,6 +30,13 @@
 
 <hr>
 
+## Instalação sdk
+Para instalar o sdk, abra um powershell do windows com privilégios administrativos <br>
+e então execute o seguinte comando
+```shell
+winget install Microsoft.DotNet.SDK.8
+```
+
 ## Executando o projeto
 Para executar abra um terminal na pasta raiz do projeto e execute o seguinte comando:
 ```shell
