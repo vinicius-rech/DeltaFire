@@ -16,7 +16,6 @@ public class SalesManagementServiceTests
         _salesService = new SalesManagementService(new StockManagementService());
     }
 
-
     [Test]
     public void GetSalesByCustomer_ExistingCustomerId_ReturnsCorrectSales()
     {
