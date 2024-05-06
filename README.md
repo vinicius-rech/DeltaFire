@@ -2,12 +2,12 @@
 # API Deltafire
 
 ### Funcionalidades Principais
-* NUnit para testes unitários
 * Relatórios de vendas diárias
 * Gerenciamento de estoque
-* Tecnologias Utilizadas
 * Cadastro de clientes
 * Registro de vendas
+### Tecnologias Utilizadas
+* NUnit para testes unitários
 * ASP.NET Core
 * C# 8.0
 
