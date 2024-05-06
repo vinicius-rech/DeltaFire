@@ -86,3 +86,8 @@ D
 Api.Deltafire.csproj,0\1\0174d4243f3fbe880b8836beaa52cdf47b434920
 S
 #Tests/SalesManagementServiceTest.cs,8\f\8f0551818e42f162a9b56cf3813cb4fb44e15e32
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
