@@ -2,14 +2,16 @@
 # API Deltafire
 
 ### Funcionalidades Principais
+* NUnit para testes unitários
+* Relatórios de vendas diárias
+* Gerenciamento de estoque
+* Tecnologias Utilizadas
 * Cadastro de clientes
 * Registro de vendas
-* Gerenciamento de estoque
-* Relatórios de vendas diárias
-* Tecnologias Utilizadas
-* ASP.NET Core 3.1
+* ASP.NET Core
 * C# 8.0
-* NUnit para testes unitários
+
+<hr>
 
 # Endpoints
 ## Customer
@@ -26,4 +28,16 @@
 * POST /api/stock: Adiciona produtos ao estoque.
 * DELETE /api/stock: Remove produtos do estoque.
 
+<hr>
 
+## Executando o projeto
+Para executar abra um terminal na pasta raiz do projeto e execute o seguinte comando:
+```shell
+dotnet run
+```
+## Documentação e Execução de endpoints com Swagger
+A documentação pode ser acessada através do link:
+```shell
+localhost:PORT/swagger/index.html
+```
+Substitua PORT pela porta exibida no console.
